@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392919196998",
+    "project_id": "pet-take-care-beta2141",
+    "storage_bucket": "pet-take-care-beta2141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392919196998:android:787f8a765a9bf55674f147",
+        "android_client_info": {
+          "package_name": "com.example.pettakecarebeta23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392919196998-9vtt4vsf4tv52fesk7i393o9s6on03nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxTW34UOIi8KUJFx7iDp5AXnwT4Z1RKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392919196998-9vtt4vsf4tv52fesk7i393o9s6on03nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

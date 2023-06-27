@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>392919196998-4f92g94bhfu1alomvsm5nvkmtgt1u87u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.392919196998-4f92g94bhfu1alomvsm5nvkmtgt1u87u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCS899rHww_rSMSp0LUS_VcSxWmUwDefGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>392919196998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pettakecarebeta23</string>
+	<key>PROJECT_ID</key>
+	<string>pet-take-care-beta2141</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pet-take-care-beta2141.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:392919196998:ios:c69b0f4a3fdc181f74f147</string>
+</dict>
+</plist>
