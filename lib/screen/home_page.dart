@@ -5,8 +5,6 @@ import 'package:pettakecarebeta23/chat/post.dart';
 import 'package:pettakecarebeta23/components/drawer.dart';
 import 'package:pettakecarebeta23/screen/profile_scren.dart';
 
-
-
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
@@ -53,7 +51,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold( 
       appBar: AppBar( 
         title: const Center(
-          child: Text("Pet Take Care",)),
+          child: Text("หิ้ว หิ้ว",)),
           backgroundColor: Colors.amberAccent,
 
         ),drawer: MyDrawer(

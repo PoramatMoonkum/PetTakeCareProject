@@ -6,7 +6,7 @@ import 'package:pettakecarebeta23/model/profile.dart';
 import 'package:pettakecarebeta23/screen/welcome.dart';
 
 class LoginScreen extends StatefulWidget {
-  const LoginScreen({super.key});
+  const LoginScreen({super.key, required void Function() showRegisterScreen});
 
   @override
   State<LoginScreen> createState() => _LoginScreenState();
@@ -70,7 +70,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           formKey.currentState!.reset();
                           Navigator.pushReplacement(context, 
                           MaterialPageRoute(builder: (context){
-                          return WelcomeScreen();
+                          return HomePage();
                         }));
                       });
                       }on FirebaseAuthException catch(e){
